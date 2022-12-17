@@ -1,2 +1,2 @@
-                Code NV3 - sprint1 Nhóm 12
+                Code NV3 - sprint2 Nhóm 12
 ------------------------ Window App ------------------------
